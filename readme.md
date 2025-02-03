@@ -46,6 +46,10 @@ Good places to start when looking for datasets.
 
 Data relating to the construction industry, i.e. market/economic data, management surveys, technology adoption rates, etc.
 
+### Artificial Intelligence
+
+- [Trust in AI for production management - Survey](http://10.17632/pg8hnttzkm.2) - Saßmannshausen, Till (2020), “Data from an online survey on initial trust in artificial intelligence for production management tasks”, Mendeley Data, V2, doi: 10.17632/pg8hnttzkm.2.
+
 ### Building Information Modelling (BIM)
 
 - [Use of BIM in projects in Lima City](http://doi.org/10.17632/8n2ymkttkp.5) - Tapia Nieto, Gerson; Collantes, Junior (2020), “Use of Building Information Modeling (BIM) technology in urban building projects in Lima city and Callao 2017, Dataset”, Mendeley Data, V5, doi: 10.17632/8n2ymkttkp.5.
