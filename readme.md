@@ -46,6 +46,10 @@ Good places to start when looking for datasets.
 
 Data relating to the construction industry, i.e. market/economic data, management surveys, technology adoption rates, etc.
 
+### Economic
+
+- [Identifying the Critical Success Factors of PPP Projects in China](https://10.17632/3ygsn7pcyp.1) - Dai, Zheng; LYU, SHOUJUN (2018), “Identifying the Critical Success Factors of PPP Projects in China ”, Mendeley Data, V1, doi: 10.17632/3ygsn7pcyp.1.
+
 ### Artificial Intelligence
 
 - [Trust in AI for production management - Survey](http://10.17632/pg8hnttzkm.2) - Saßmannshausen, Till (2020), “Data from an online survey on initial trust in artificial intelligence for production management tasks”, Mendeley Data, V2, doi: 10.17632/pg8hnttzkm.2.
