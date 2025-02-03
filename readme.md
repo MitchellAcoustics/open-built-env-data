@@ -49,6 +49,7 @@ Data relating to the construction industry, i.e. market/economic data, managemen
 ### Building Information Modelling (BIM)
 
 - [Use of BIM in projects in Lima City](http://doi.org/10.17632/8n2ymkttkp.5) - Tapia Nieto, Gerson; Collantes, Junior (2020), “Use of Building Information Modeling (BIM) technology in urban building projects in Lima city and Callao 2017, Dataset”, Mendeley Data, V5, doi: 10.17632/8n2ymkttkp.5.
+- [Management surveys on knowledge management (KM), core competence (CC), and firm competitiveness (FC) in South Asia](https://dx.doi.org/10.5255/UKDA-SN-855898) - Fatima, Iram and Aziz, Iffat and Shafiq, Muhammad (2024). Impact of Knowledge Management on Firm Competitiveness: Core Competence as Mediator, 2020-2021. [Data Collection]. Colchester, Essex: UK Data Service. 10.5255/UKDA-SN-855898.
 
 <!-- END CONTENT -->
 
