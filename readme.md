@@ -44,7 +44,7 @@ Data relating to the construction industry, i.e. market/economic data, managemen
 
 ### Building Information Modelling (BIM)
 
-- [Use of BIM in projects in Lima City](http://doi.org/10.17632/8n2ymkttkp.5) - Tapia Nieto, Gerson; Collantes, Junior (2020), “Use of Building Information Modeling (BIM) technology in urban building projects in Lima city and Callao 2017, Dataset”, Mendeley Data, V5, doi: 10.17632/8n2ymkttkp.5
+- [Use of BIM in projects in Lima City](http://doi.org/10.17632/8n2ymkttkp.5) - Tapia Nieto, Gerson; Collantes, Junior (2020), “Use of Building Information Modeling (BIM) technology in urban building projects in Lima city and Callao 2017, Dataset”, Mendeley Data, V5, doi: 10.17632/8n2ymkttkp.5.
 
 <!-- END CONTENT -->
 
