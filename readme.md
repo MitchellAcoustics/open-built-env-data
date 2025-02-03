@@ -12,7 +12,7 @@ A list of open data sources relating to the built environment.
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
+<a href="built-environments-icon.jpg.webp" target="_blank" rel="noopener noreferrer">
   <img src="" />
 </a>
 
@@ -31,18 +31,27 @@ At this stage, each data source should be included with its name, a link (prefer
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Industry and Market](#industry-and-market)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
 ## Featured (new releases)
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- **Use of Building Information Modeling (BIM) technology in urban building projects in Lima city and Callao 2017, Dataset**
+  - Tapia Nieto, Gerson; Collantes, Junior (2020), Mendeley Data, V5, doi: [10.17632/8n2ymkttkp.5](https://doi.org/10.17632/8n2ymkttkp.5)
+  - Published: 28 July, 2020
+  - Description: This research data aimed to estimate the diffusion of Building Information Modeling (BIM) technology in urban building projects of Lima city and Callao by the end of 2017.
 
-## 
+## Industry and Market
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+Data relating to the construction industry, i.e. market/economic data, management surveys, technology adoption rates, etc.
+
+### Building Information Modelling (BIM)
+
+- Tapia Nieto, Gerson; Collantes, Junior (2020), “Use of Building Information Modeling (BIM) technology in urban building projects in Lima city and Callao 2017, Dataset”, Mendeley Data, V5, doi: [10.17632/8n2ymkttkp.5](https://doi.org/10.17632/8n2ymkttkp.5)
+  - Published: 28 July, 2020
+  - Description: This research data aimed to estimate the diffusion of Building Information Modeling (BIM) technology in urban building projects of Lima city and Callao by the end of 2017.
 
 <!-- END CONTENT -->
 
