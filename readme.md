@@ -36,6 +36,7 @@ At this stage, each data source should be included with its name, a link (prefer
 
 <!-- CONTENT -->
 
+<!--lint ignore double-link-->
 ## Featured (new releases)
 
 - [**Use of Building Information Modeling (BIM) technology in urban building projects in Lima city and Callao 2017, Dataset**](https://data.mendeley.com/datasets/8n2ymkttkp/5)
