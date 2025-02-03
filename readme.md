@@ -12,8 +12,8 @@ A list of open data sources relating to the built environment.
 
 <!-- image -->
 
-<a href="built-environments-icon.jpg.webp" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="built-envs-icon.jpg" />
 </a>
 
 </div>
