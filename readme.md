@@ -16,6 +16,8 @@ A list of open data sources relating to the built environment.
   <img src="" />
 </a>
 
+</div>
+
 <!-- description -->
 
 This is a resource page for compiling links to all the openly available built environment-related datasets I can find. It is primarily intended for teaching purposes, to make finding data examples easier, however researchers may also find it useful.
@@ -23,8 +25,6 @@ This is a resource page for compiling links to all the openly available built en
 The page is organised by general field or focus of the dataset. 
 
 At this stage, each data source should be included with its name, a link (preferably a doi link), a brief description, and the citation. As this project matures, the plan is to add [datacards](https://research.google/blog/the-data-cards-playbook-a-toolkit-for-transparency-in-dataset-documentation/) for new datasets.
-
-</div>
 
 <!-- TOC -->
 
