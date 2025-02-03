@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of the open data sources relating to the built environment.
+A list of open data sources relating to the built environment.
 
 <!-- image -->
 
