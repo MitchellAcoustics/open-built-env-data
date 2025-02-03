@@ -36,7 +36,7 @@ At this stage, each data source should be included with its name, a link (prefer
 
 <!-- CONTENT -->
 
-<!--lint ignore double-link-->
+<!--lint disable double-link-->
 ## Featured (new releases)
 
 - [**Use of Building Information Modeling (BIM) technology in urban building projects in Lima city and Callao 2017, Dataset**](https://data.mendeley.com/datasets/8n2ymkttkp/5)
@@ -44,6 +44,7 @@ At this stage, each data source should be included with its name, a link (prefer
   - Published: 28 July, 2020
   - Description: This research data aimed to estimate the diffusion of Building Information Modeling (BIM) technology in urban building projects of Lima city and Callao by the end of 2017.
 
+<!--lint enable double-link-->
 ## Industry and Market
 
 Data relating to the construction industry, i.e. market/economic data, management surveys, technology adoption rates, etc.
