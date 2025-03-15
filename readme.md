@@ -41,6 +41,7 @@ At this stage, each data source should be included with its name, a link (prefer
 Good places to start when looking for datasets.
 
 - [UK Data Service](https://ukdataservice.ac.uk/find-data/browse/)
+- [Operations Research & Scheduling project Database](https://www.projectmanagement.ugent.be/research/data)
 
 ## Industry and Market
 
