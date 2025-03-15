@@ -46,6 +46,10 @@ Good places to start when looking for datasets.
 
 Data relating to the construction industry, i.e. market/economic data, management surveys, technology adoption rates, etc.
 
+### Project Management
+
+- [Project Portfolio Dataset](https://figshare.com/articles/dataset/Project_Portfolio_Dataset/12998822?file=24779909) - Thiele, Brett; Ryan, Michael; Abbasi, Alireza (2020). "Project Portfolio Dataset". figshare. Dataset. doi: 10.6084/m9.figshare.12998822.v3
+
 ### Economic
 
 - [Identifying the Critical Success Factors of PPP Projects in China](https://10.17632/3ygsn7pcyp.1) - Dai, Zheng; LYU, SHOUJUN (2018), “Identifying the Critical Success Factors of PPP Projects in China ”, Mendeley Data, V1, doi: 10.17632/3ygsn7pcyp.1.
